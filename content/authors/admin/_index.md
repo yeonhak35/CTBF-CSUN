@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 吳健雄
+title: CTBF
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yeonhak
+last_name: Jung
 
 # Pronouns (optional)
-pronouns: she/her
+pronouns: ''
 
 # Status emoji
 status:
